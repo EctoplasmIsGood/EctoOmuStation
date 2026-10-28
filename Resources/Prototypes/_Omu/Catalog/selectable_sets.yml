@@ -197,15 +197,15 @@
   - MagazineClipM1Garand
   - MagazineClipM1Garand
 
-- type: selectableSet
-  id: SergeantBeltSet
-  name: selectable-set-sergeant-belt-name
-  description: selectable-set-sergeant-belt-description
-  sprite:
-    sprite: _Omu/Clothing/Belt/sergeantdisciplinary.rsi
-    state: icon
-  content:
-  - WaistBeltSergeantBelt
+# - type: selectableSet
+#   id: SergeantBeltSet
+#   name: selectable-set-sergeant-belt-name
+#   description: selectable-set-sergeant-belt-description
+#   sprite:
+#     sprite: _Omu/Clothing/Belt/sergeantdisciplinary.rsi
+#     state: icon
+#   content:
+#   - WaistBeltSergeantBelt
 
 - type: selectableSet
   id: SecurityTackleSet
